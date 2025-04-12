@@ -1,13 +1,14 @@
-# Advanced-FTIR-XRD-Analyzer-with-Fourier-Transform-
-Advanced FTIR/XRD Analyzer with Fourier Transform &amp; Machine Learning Integration
-این برنامه یک ابزار تحلیلگر پیشرفته برای پردازش داده‌های طیف‌سنجی FTIR (فوریه مادون قرمز) و پراش اشعه ایکس (XRD) است که با استفاده از رابط کاربری گرافیکی (GUI) توسعه یافته است. ویژگی‌های کلیدی شامل:
+Brief Description:
+This program is an advanced analyzer tool for processing Fourier Transform Infrared (FTIR) spectroscopy and X-ray Diffraction (XRD) data, developed with a Graphical User Interface (GUI). Key features include:
 
-تبدیل فوریه (FFT) و تبدیل معکوس فوریه (iFFT) برای تحلیل سیگنال‌ها
+Fourier Transform (FFT) and Inverse Fourier Transform (iFFT) for signal analysis
 
-سری فوریه با قابلیت تنظیم تعداد جمله‌ها
+Fourier Series with adjustable term counts
 
-تحلیل پیشرفته FTIR/XRD شامل شناسایی پیک‌ها، خوشه‌بندی با الگوریتم K-Means و نمایش نتایج
+Advanced FTIR/XRD Analysis including peak detection, K-Means clustering, and result visualization
 
-پشتیبانی از آپلود فایل‌های داده (CSV، Excel، متن) و تولید سیگنال‌های سفارشی
+Support for uploading data files (CSV, Excel, text) and generating custom signals
 
-ترسیم نمودارهای تعاملی با کتابخانه matplotlib
+Interactive plotting using the matplotlib library
+
+--> <b>Two real-world sample datasets included for testing and demonstration</b>
