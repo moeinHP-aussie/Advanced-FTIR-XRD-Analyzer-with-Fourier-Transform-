@@ -1,4 +1,5 @@
-Brief Description:
+ <h2><i></i>Advanced FTIR/XRD Analyzer with Fourier Transform & Machine Learning Integration</i></h2>
+ 
 This program is an advanced analyzer tool for processing Fourier Transform Infrared (FTIR) spectroscopy and X-ray Diffraction (XRD) data, developed with a Graphical User Interface (GUI). Key features include:
 
 Fourier Transform (FFT) and Inverse Fourier Transform (iFFT) for signal analysis
